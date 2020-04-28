@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.boxes1 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.boxes2 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: lightgreen;
+    margin: 20px;
+    cursor: pointer;
+}
